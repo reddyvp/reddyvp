@@ -1,7 +1,7 @@
   Hi there 👋
 
-- 🔭 I’m currently working on GitHub
-- 🌱 I’m currently learning OOP in Java, Database Managment System, and GitHub
+- 🔭 I’m currently a student at Northwest Missouri State University
+- 🌱 I’m currently learning OOP in Java, Database Managment System, and React
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with Experienced Job Holders
 - 💬 Ask me about physical activities

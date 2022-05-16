@@ -7,5 +7,5 @@
 - 💬 Ask me about physical activities
 - 📫 How to reach me: instagram(vamsidhar_reddyp)
 - 😄 Pronouns: Vamshi
-- ⚡ Fun fact: Newton Issac never knew  many other fruits falling down from a tree.
+- ⚡ Fun fact: Newton Issac never knew there are many other fruit trees planted which proves gravity.
 -->
